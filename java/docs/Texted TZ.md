@@ -75,4 +75,7 @@
  
 Пример момента во время урока: https://www.figma.com/design/nuirgyLqaBN1ML6MjzqYDF/Untitled?node-id=8-29&p=f&t=V01A7jEvSV9N4PYa-0
 
+База Данных: PostgreSQL
+
+Будующий user базы данных: SergeyAndAlex
 
