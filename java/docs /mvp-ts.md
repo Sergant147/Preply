@@ -1,7 +1,7 @@
 # 1) Цель проекта
 Копия сайта preply.com! Обучающий сайт но где можно платить не только деньгами но и уроком с тем кому от должен заплатить.
 # 2) Главные свойства
-# 2.1) Главные блоки сайта
+## 2.1) Главные блоки сайта
 * Регистрация, аутентификация и авторизация
 * Заполнение анкеты
 * Изменение своего профиля
@@ -10,6 +10,7 @@
 * Проведение уроков
 * Платёж*
 * Чат с пользователем
+* Работа с PostgresDB
 
 Все эти блоки это главные блоки реализирующие сайт.
 ## 2.2) Тип пользователя
@@ -47,3 +48,20 @@
 В нижней части страницы  (в подвале)  должно быть написано: «Работает на Open Source»  со ссылкой на GitHub проекта.
 Цвет фона: Белый
 # 4) Картинки
+Логин форма, изменение профиля и анкета пользователя: main_page_anket, login_form.png
+
+Форма главного логина: pre-login_form.png
+
+Главная страница: main_page_search.png
+
+Страница планирования урока: https://www.figma.com/design/nuirgyLqaBN1ML6MjzqYDF/Untitled?node-id=0-1&t=V01A7jEvSV9N4PYa-1.
+
+Когда ты на главной странице учителя. То там есть вывеска про урок: https://www.figma.com/design/nuirgyLqaBN1ML6MjzqYDF/Untitled?node-id=4-2&p=f&t=V01A7jEvSV9N4PYa-0.
+
+Есть чат по примеру dialog.png!
+
+Чат: https://www.figma.com/design/nuirgyLqaBN1ML6MjzqYDF/Untitled?node-id=4-18&p=f&t=V01A7jEvSV9N4PYa-0
+
+Можно зайти в свой профиль который будет показываться как https://www.figma.com/design/nuirgyLqaBN1ML6MjzqYDF/Untitled?node-id=7-24&p=f&t=V01A7jEvSV9N4PYa-0
+
+Пример момента во время урока: https://www.figma.com/design/nuirgyLqaBN1ML6MjzqYDF/Untitled?node-id=8-29&p=f&t=V01A7jEvSV9N4PYa-0
