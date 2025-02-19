@@ -24,10 +24,8 @@
 ### 🎓 Проведение урока
 
 - ✏️ Рисование в miro
-- 🖥️ Показ экрана в zoom
+- 🖥️ Zoom Уроки
 - 💬 Чат
-- 🎥 Управление своей камерой
-- 🎙️ Управление своим микрофоном
 - 🎓 Планироване слещующего урока прямо в течение урока
 
 
@@ -70,7 +68,9 @@
 ## 📱 Инструменты для создания
 
 frontend: js + vue3 + tailwind
+
 backend: java + spring boot + hibernate + flyway + mapstruct + postgresql
+ 
 python-backend: telebot + sqlalchemy + fastapi + alembic + pydantic
 
 
@@ -87,3 +87,4 @@ python-backend: telebot + sqlalchemy + fastapi + alembic + pydantic
 🖼️ Планирование урока: https://www.figma.com/design/nuirgyLqaBN1ML6MjzqYDF/Untitled?node-id=0-1&t=V01A7jEvSV9N4PYa-1.
 🖼️ О Нас: https://www.figma.com/board/FvfDuAxdEJKJ538qxbUaKZ/Welcome-to-FigJam?node-id=1-333&t=wwJklEfBlr9GvmhQ-1
 ## ⚡ Итог
+Это приложение позволяет заниматься даже без денег
