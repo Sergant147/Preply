@@ -65,14 +65,26 @@
   
 
 
-## 📱 Инструменты для создания
+# 🚀 Технологический стек
 
-Frontend: 🧠 js + vue3 + tailwind
+## 🎨 Frontend:
+- 🟡 JavaScript  
+- 🟢 Vue 3  
+- 🎨 Tailwind CSS  
 
-Backend: 🧠 java + spring boot + hibernate + flyway + mapstruct + postgresql
+## 🖥 Основной Backend:
+- ☕️ Java + Spring Boot  
+- 🏗 Hibernate  
+- 🔄 Flyway  
+- 🔧 MapStruct  
+- 🛢 PostgreSQL  
 
-Python-Backend: 🧠 telebot + sqlalchemy + fastapi + alembic + pydantic
-
+## 🔹 Вспомогательный Python-Backend (боты, утилиты):
+- 🤖 Telebot  
+- 🗄 SQLAlchemy  
+- ⚡️ FastAPI  
+- 🔀 Alembic  
+- 📏 Pydantic
 
 
 ## 🖼️ Макеты Фронт-энда
